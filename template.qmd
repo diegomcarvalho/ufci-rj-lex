@@ -1,0 +1,119 @@
+---
+title: "Comitê da Alta Gestão de Governança, Desenvolvimento e Controles"
+description: "Este Regimento tem por finalidade estabelecer os aspectos de organização e de funcionamento do Comitê da Alta Gestão de Governança, Desenvolvimento e Controles da Universidade Federal de Ciência e Inovação do Rio de Janeiro, UFCI/RJ."
+author: Diego Carvalho
+header: Pró-reitoria de Gestão Estratégica e Tecnologia da Informação
+date: "06/18/2026"
+format:
+  clx-html: default
+  clx-pdf:
+    keep-tex: false
+    classoption: [paragrafoespaco,capitulo]
+---
+
+
+# Da finalidade
+
+### Este Regimento estabelece a organização e o funcionamento do Comitê da Alta gestão de  Governança, Desenvolvimento e Controles da Universidade Federal de Ciência e Inovação do Rio de Janeiro (UFCI/RJ), em conformidade com:
+
+- Instrução Normativa Conjunta MP/CGU nº 01, de 10 de maio de 2016;
+- Decreto nº 9.203, de 22 de novembro de 2017;
+- Programa de Modernização do Poder Executivo Federal;
+- Estratégia de Governo Digital (EGD), instituída pelo Decreto nº 10.332, de 28 de abril de 2020;
+- Art. 5º da Portaria nº 19, de 29 de maio de 2017;
+- Diretrizes da Secretaria do Governo Digital, conforme Decreto nº 9.745, de 8 de abril de 2019; e
+- Decreto nº 12.198, de 24 de setembro de 2024, no que se refere às atribuições do Comitê de Governança Digital.
+
+# Do Comitê de governança, desenvolvimento digital, riscos e controle
+
+## Definição
+
+### O Comitê da Alta gestão de  Governança, Desenvolvimento e Controles (CGDDRC) é o órgão colegiado permanente de natureza deliberativa, de caráter estratégico e normativo, que tem como finalidade estabelecer políticas, diretrizes e a adoção de medidas para a sistematização de práticas relacionadas à governança, desenvolvimento digital, gestão de riscos e controles internos no âmbito da Universidade Federal de Ciência e Inovação do Rio de Janeiro, UFCI/RJ.
+
+# Da composição e assessoramento
+
+### O CGDDRC é composto por:
+- Diretor-Geral;
+- Diretores Sistêmicos; e
+- Diretores dos campi.
+
+#### O CGDDRC é presidido pelo Diretor-Geral.
+#### Os membros têm direito a voz e voto.
+#### Na ausência de qualquer membro, o ausente poderá ser representado pelo seu substituto eventual, que terá direito a voz e voto.
+
+### O CGDDRC é assessorado por:
+- Chefe do Departamento de Desenvolvimento Institucional;
+- Chefe do Departamento de Tecnologia da Informação; e
+- Encarregado do Tratamento de Dados Pessoais (DPO).
+
+#### Os assesores têm direito a voz, mas não têm direito a voto.
+
+### A participação no CGDDRC será considerada prestação de serviço público relevante, não remunerada.
+
+### Incumbe à presidência do CGDDRC, ouvidos os demais membros deste comitê:
+- presidir as sessões e demais atividades do Comitê;
+- estabelecer calendário de reuniões ordinárias e convocar reuniões extraordinárias;
+- aprovar a pauta das reuniões;
+- decidir em caso de empate, utilizando o voto de qualidade;
+- autorizar a presença nas reuniões de pessoas que possam contribuir para os trabalhos do Comitê;
+- designar responsáveis ou grupo de trabalho para aprofundamento de estudo sobre assuntos técnicos e desenvolvimento de projetos especiais;
+- zelar pela Segurança da Informação na Instituição;
+- decidir as questões de ordem relativas à aplicação deste Regimento Interno;
+- expedir decisões, ad referendum, em vista de circunstâncias de urgência, normas complementares relativas ao seu funcionamento e à ordem dos trabalhos, bem como atos administrativos, ficando o tema obrigatoriamente inscrito na pauta da próxima reunião;
+- cumprir e fazer cumprir o Regimento Interno do Comitê.
+
+### São atribuições dos diretores sistêmicos e dos campi:
+- participar das reuniões ordinárias e extraordinárias do Comitê;
+- analisar, debater e votar as matérias em discussão, inclusive na condição de relator, se for o caso;
+- realizar estudos e pesquisas necessários ao desenvolvimento das atividades do comitê;
+- propor a designação de comissões ou grupos de trabalho para atuarem em caráter consultivo sobre os temas de governança e gestão de riscos em apoio à tomada de decisões do comitê;
+- propor a inclusão de matérias nas pautas das reuniões; e
+- participar de ações de capacitação relativas ao tema do Comitê.
+
+### São atribuições dos assessores do comitê:
+- prestar apoio nos assuntos relacionados à implementação e ao desenvolvimento da governança, implantação da gestão de riscos e controle e do desenvolvimento digital no âmbito institucional;
+- fazer a liaison com as respectivas comunidades;
+- presidir estudos demandados pela presidência para instruir as decisões do comitê; e
+- emitir pareceres sobre temas afetos às suas competências.
+
+# Das competências
+
+### Compete ao CGDDRC:
+- auxiliar a administração na implementação e manutenção de processos, estruturas e mecanismos adequados à incorporação dos princípios e diretrizes da governança pública;
+- promover iniciativas que implementem o acompanhamento de resultados, promovam soluções para melhoria do desempenho institucional e aprimorem o processo decisório;
+- promover e acompanhar a implementação das medidas, mecanismos e práticas organizacionais de governança definidos pelo Comitê Interministerial de Governança (CIG);
+- promover práticas e princípios de conduta e padrões de comportamentos alinhados às melhores práticas de ética e integridade do serviço público;
+- institucionalizar estruturas adequadas de governança, gestão de riscos e controles internos;
+- promover o desenvolvimento contínuo dos agentes públicos e incentivar a adoção de boas práticas de governança, gestão de riscos e controles internos;
+- garantir a aderência às regulamentações, leis, códigos, normas e padrões na condução das políticas e prestação de serviços de interesse público;
+- articular a integração dos agentes responsáveis pela governança, gestão de riscos e controles internos;
+- institucionalizar a responsabilidade dos agentes públicos na prestação de contas, transparência e efetividade das informações;
+- aprovar políticas, diretrizes, metodologias e mecanismos para comunicação e institucionalização da gestão de riscos e controles internos;
+- supervisionar o mapeamento e avaliação dos riscos-chave que possam comprometer a prestação de serviços de interesse público;
+- liderar a institucionalização da gestão de riscos e controles internos, oferecendo suporte para sua efetiva implementação;
+- estabelecer limites de exposição a riscos globais, bem como limites de alçada ao nível de unidade, política pública ou atividade;
+- aprovar método de priorização de temas e macroprocessos para gerenciamento de riscos e implementação dos controles internos;
+- elaborar manifestações técnicas e emitir recomendações para o aprimoramento da governança, gestão de riscos e controles internos;
+- aprovar a política e diretrizes de Governança Digital e Gestão da Tecnologia da Informação do UFCI/RJ;
+- monitorar resultados e avaliar a gestão da Política de Governança e Gestão da Tecnologia da Informação em consonância com a legislação vigente;
+- aprovar as diretrizes do Plano Diretor de Tecnologia da Informação e Comunicação (PDTIC), suas revisões e avaliar sua execução;
+- aprovar o Plano de Transformação Digital (PTD);
+- aprovar o Plano de Dados Abertos (PDA);
+- deliberar sobre prioridades na formulação e execução de planos e projetos relacionados à Tecnologia da Informação e Comunicação, incluindo Serviços Públicos Digitais e Gestão de Riscos em Tecnologia da Informação;
+- avaliar os Sistemas de Informação do UFCI/RJ e propor atualizações, revisões e desativações;
+- deliberar sobre o Plano Anual de Contratações de soluções de Tecnologia da Informação e Comunicação;
+- aprovar, monitorar e avaliar as ações para adesão à Plataforma da Cidadania Digital e realizar interlocução com seu Comitê Gestor;
+- monitorar o cumprimento das recomendações do SISP e determinações do Governo Federal quanto aos projetos e ações de TIC; e
+- monitorar as recomendações e orientações deliberadas pelo Comitê.
+
+# Das disposições gerais
+
+### O cronograma das reuniões ordinárias e suas respectivas atividades deverá ser divulgado na primeira sessão ordinária do exercício.
+
+### A implementação de todas as iniciativas relacionadas à governança, desenvolvimento digital, gestão de riscos e controles internos no âmbito do UFCI/RJ deverá ser submetida ao CGDDRC para conhecimento, análise e aprovação.
+
+### O regimento do Comitê poderá ser revisto mediante solicitação de, no mínimo, dois terços dos seus membros.
+
+### Os casos omissos serão resolvidos em votação pelos membros deste Comitê.
+
+### Este Regimento entrará em vigor após sua aprovação e homologação.
