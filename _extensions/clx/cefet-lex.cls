@@ -138,6 +138,7 @@
 
 \newcounter{artigo}
 \newcommand{\artigo}{\refstepcounter{artigo} %
+    \setlength{\parskip}{1em}
 	\par
 	\ifnum\theartigo<10 %
 	{\bfseries Art.~\arabic{artigo}º~~}%
@@ -163,13 +164,14 @@
 
 \newcounter{inciso}[paragrafo]
 \newcommand{\inciso}{\refstepcounter{inciso} %
-\par
-\ifnum\theparagrafo=0
-\hangindent=2em \hangafter=0
-\else
-\hangindent=3.5em \hangafter=0
-\fi
-\Roman{inciso} ---
+	\par
+	\setlength{\parskip}{0.5em}
+	\ifnum\theparagrafo=0 %
+	\hangindent=2em \hangafter=0
+	\else
+	\hangindent=3.5em \hangafter=0
+	\fi
+\Roman{inciso} --
 }
 
 
@@ -200,7 +202,6 @@
 \RequirePackage{refcount}
 \RequirePackage{fancyhdr}
 \RequirePackage{modroman}
-\RequirePackage{carlito}
 
 
 \RequirePackage[a-2b]{pdfx}

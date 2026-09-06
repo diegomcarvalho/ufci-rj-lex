@@ -1,5 +1,5 @@
 ---
-title: "Comitê da Alta Gestão de Governança, Desenvolvimento e Controles"
+title: "Comitê da Alta Gestão de Governança"
 description: "Este Regimento tem por finalidade estabelecer os aspectos de organização e de funcionamento do Comitê da Alta Gestão de Governança, Desenvolvimento e Controles da Universidade Federal de Ciência e Inovação do Rio de Janeiro, UFCI/RJ."
 author: Diego Carvalho
 header: Pró-reitoria de Gestão Estratégica e Tecnologia da Informação
@@ -14,7 +14,7 @@ format:
 
 # Da finalidade
 
-### Este Regimento estabelece a organização e o funcionamento do Comitê da Alta gestão de  Governança, Desenvolvimento e Controles da Universidade Federal de Ciência e Inovação do Rio de Janeiro (UFCI/RJ), em conformidade com:
+### Este Regimento estabelece a organização e o funcionamento do Comitê da Alta Gestão de Governança da Universidade Federal de Ciência e Inovação do Rio de Janeiro (UFCI/RJ), em conformidade com:
 
 - Instrução Normativa Conjunta MP/CGU nº 01, de 10 de maio de 2016;
 - Decreto nº 9.203, de 22 de novembro de 2017;
@@ -26,29 +26,29 @@ format:
 
 # Do Comitê de governança, desenvolvimento digital, riscos e controle
 
-### O Comitê da Alta gestão de  Governança, Desenvolvimento e Controles (CGDDRC) é o órgão colegiado permanente de natureza deliberativa, de caráter estratégico e normativo, que tem como finalidade estabelecer políticas, diretrizes e a adoção de medidas para a sistematização de práticas relacionadas à governança, desenvolvimento digital, gestão de riscos e controles internos no âmbito da Universidade Federal de Ciência e Inovação do Rio de Janeiro, UFCI/RJ.
+### O Comitê da Alta Gestão de Governança (CAGG) é o órgão colegiado permanente de natureza deliberativa, de caráter estratégico e normativo, que tem como finalidade estabelecer políticas, diretrizes e a adoção de medidas para a sistematização de práticas relacionadas à governança, desenvolvimento digital, gestão de riscos e controles internos no âmbito da Universidade Federal de Ciência e Inovação do Rio de Janeiro, UFCI/RJ.
 
 # Da composição e assessoramento
 
-### O CGDDRC é composto por:
+### O Comitê da Alta Gestão de Governança é composto por:
 - Diretor-Geral;
 - Diretores Sistêmicos; e
 - Diretores dos campi.
 
-#### O CGDDRC é presidido pelo Diretor-Geral.
+#### O Comitê da Alta Gestão de Governança é presidido pelo Diretor-Geral.
 #### Os membros têm direito a voz e voto.
 #### Na ausência de qualquer membro, o ausente poderá ser representado pelo seu substituto eventual, que terá direito a voz e voto.
 
-### O CGDDRC é assessorado por:
+### O Comitê da Alta Gestão de Governança é assessorado por:
 - Chefe do Departamento de Desenvolvimento Institucional;
 - Chefe do Departamento de Tecnologia da Informação; e
 - Encarregado do Tratamento de Dados Pessoais (DPO).
 
 #### Os assesores têm direito a voz, mas não têm direito a voto.
 
-### A participação no CGDDRC será considerada prestação de serviço público relevante, não remunerada.
+### A participação no CAGG será considerada prestação de serviço público relevante, não remunerada.
 
-### Incumbe à presidência do CGDDRC, ouvidos os demais membros deste comitê:
+### Incumbe à presidência do CAGG, ouvidos os demais membros deste comitê:
 - presidir as sessões e demais atividades do Comitê;
 - estabelecer calendário de reuniões ordinárias e convocar reuniões extraordinárias;
 - aprovar a pauta das reuniões;
@@ -76,7 +76,7 @@ format:
 
 # Das competências
 
-### Compete ao CGDDRC:
+### Compete ao CAGG:
 - auxiliar a administração na implementação e manutenção de processos, estruturas e mecanismos adequados à incorporação dos princípios e diretrizes da governança pública;
 - promover iniciativas que implementem o acompanhamento de resultados, promovam soluções para melhoria do desempenho institucional e aprimorem o processo decisório;
 - promover e acompanhar a implementação das medidas, mecanismos e práticas organizacionais de governança definidos pelo Comitê Interministerial de Governança (CIG);
@@ -108,7 +108,7 @@ format:
 
 ### O cronograma das reuniões ordinárias e suas respectivas atividades deverá ser divulgado na primeira sessão ordinária do exercício.
 
-### A implementação de todas as iniciativas relacionadas à governança, desenvolvimento digital, gestão de riscos e controles internos no âmbito do UFCI/RJ deverá ser submetida ao CGDDRC para conhecimento, análise e aprovação.
+### A implementação de todas as iniciativas relacionadas à governança, desenvolvimento digital, gestão de riscos e controles internos no âmbito do UFCI/RJ deverá ser submetida ao CAGG para conhecimento, análise e aprovação.
 
 ### O regimento do Comitê poderá ser revisto mediante solicitação de, no mínimo, dois terços dos seus membros.
 
