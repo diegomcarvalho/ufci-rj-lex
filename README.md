@@ -114,12 +114,16 @@ O template suporta toda a sintaxe Markdown padrão do Quarto, incluindo:
 - Equações LaTeX inline `\( x^2 \)` e em bloco `\[ E = mc^2 \]`
 - Callouts Quarto: `:::{.callout-note}` etc.
 
-As seções do Markdown são modificadas para:
-- \# Indicam Capítulos
-- \## Indicam Seções
-- \### Indicam artigos
-- \#### Indicam parágrafos
-- Listas ordenadas - Indicam incisos
+Mapeamento de headings:
+
+| Markdown | Elemento | Saída LaTeX / HTML |
+|---|---|---|
+| H1 (`#`) | Capítulo | `\chapter` / `<p class="capitulo">` |
+| H2 (`##`) | Seção | `\section` / `<p class="secao">` |
+| H3 (`###`) | Artigo | `\artigo` / `<p class="artigo">` |
+| H4 (`####`) | Parágrafo | `\paragrafo` ou `\paragrafounico` / `<p class="paragrafo">` |
+| H5 (`#####`) | Alínea | `\alinea` / `<p class="alinea">` |
+| Listas ordenadas | Incisos | `\inciso` / `<p class="inciso">` |
 
 
 ---
