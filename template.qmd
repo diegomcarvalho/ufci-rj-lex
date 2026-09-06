@@ -8,7 +8,7 @@ format:
   clx-html: default
   clx-pdf:
     keep-tex: false
-    classoption: [paragrafoespaco,capitulo]
+    classoption: [capitulo]
 ---
 
 
@@ -25,8 +25,6 @@ format:
 - Decreto nº 12.198, de 24 de setembro de 2024, no que se refere às atribuições do Comitê de Governança Digital.
 
 # Do Comitê de governança, desenvolvimento digital, riscos e controle
-
-## Definição
 
 ### O Comitê da Alta gestão de  Governança, Desenvolvimento e Controles (CGDDRC) é o órgão colegiado permanente de natureza deliberativa, de caráter estratégico e normativo, que tem como finalidade estabelecer políticas, diretrizes e a adoção de medidas para a sistematização de práticas relacionadas à governança, desenvolvimento digital, gestão de riscos e controles internos no âmbito da Universidade Federal de Ciência e Inovação do Rio de Janeiro, UFCI/RJ.
 

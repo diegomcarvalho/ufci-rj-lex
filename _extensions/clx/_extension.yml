@@ -33,6 +33,7 @@ contributes:
       classoption: [paragrafoespaco]
       pdf-engine: lualatex
       papersize: a4
+      mainfont: Carlito
       fontsize: 9pt
       number-sections: true
       pdf-standard: a-2b

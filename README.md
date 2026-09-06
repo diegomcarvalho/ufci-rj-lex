@@ -65,7 +65,7 @@ O cabeçalho YAML controla todos os metadados e as opções de formatação do d
 ```yaml
 ---
 title: "Título do Regulamento"
-description: "Descrição da nomar"
+description: "Descrição da norma"
 author: Diego Carvalho
 header: "Pró-reitoria de Gestão Estratégica e Tecnologia da Informação"
 date: "06/18/2026"
@@ -81,8 +81,8 @@ format:
 |---|---|---|---|
 | `title` | string | ✅ | Título principal do documento |
 | `date` | string | ✅ | Data de publicação (texto livre) |
-| `header` | string | ✅ | Unidade administrativa que aparece no cabeçalho |
-| `description` | string | ✅ | Descritivo da noma |
+| `header` | string |  | Unidade administrativa que aparece no cabeçalho |
+| `description` | string |  | Descritivo da norma |
 
 
 ### Formato de saída
@@ -98,7 +98,7 @@ format:
 | Opção `classoption` | Descrição |
 |---|---|
 | `keep-tex` | Não remove o arquivo LaTeX depois da compilação |
-| `capitulo` | A norma tem a maior divisão em capítulos |
+| `capitulo` | Faz os capítulos começarem na mesma página |
 | `paragrafoespaco` | Controla o espaçamento |
 
 

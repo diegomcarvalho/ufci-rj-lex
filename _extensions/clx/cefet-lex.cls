@@ -199,21 +199,11 @@
 \RequirePackage{etoolbox}
 \RequirePackage{refcount}
 \RequirePackage{fancyhdr}
-\RequirePackage{fontspec}
 \RequirePackage{modroman}
+\RequirePackage{carlito}
 
 
 \RequirePackage[a-2b]{pdfx}
-
-
-\setmainfont{Carlito}
-
-\defaultfontfeatures[\rmfamily,\sffamily]{Ligatures=TeX}
-
-%\setmainfont{Georgia Pro}[UprightFont=*-Light,
-%	ItalicFont=*-Light Italic]
-\setsansfont{Roboto}
-\setmonofont[Color={0019D4}]{Roboto Mono}
 
 
 \geometry{a4paper,
