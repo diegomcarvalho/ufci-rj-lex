@@ -19,11 +19,6 @@ contributes:
       toc: true
       toc-depth: 3
       theme: [yeti, custom.scss]
-      mainfont: Sofia Sans Condensed
-      mainfontoptions:
-        - FontWeight=Regular
-      sansfont: Roboto
-      monofont: Noto Sans Mono
       include-before-body:
         - file: header.html
       format-resources:
@@ -34,7 +29,7 @@ contributes:
       pdf-engine: lualatex
       papersize: a4
       fontsize: 9pt
-      mainfont: Times New Roman
+      mainfont: Latin Modern Roman
       number-sections: true
       pdf-standard: a-2b
       template-partials:

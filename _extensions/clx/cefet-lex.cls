@@ -143,7 +143,7 @@
 	\ifnum\theartigo<10 %
 	{\bfseries Art.~\arabic{artigo}º~~}%
 	\else
-	{\bfseries Art. \arabic{artigo}~~}%
+	{\bfseries Art. \arabic{artigo}.~~}%
 	\fi
 	%Art. \arabic{artigo}.~
 	\setcounter{inciso}{0}
@@ -155,11 +155,11 @@
 	\ifnum\theparagrafo<10 %
 	\hangindent=2em \hangafter=0 \S~\arabic{paragrafo}º~%
 	\else
-	\hangindent=2em \hangafter=0 \S~\arabic{paragrafo}~%
+	\hangindent=2em \hangafter=0 \S~\arabic{paragrafo}.~%
 	\fi
 }
 
-\newcommand{\paragrafounico}{\hangindent=2em \hangafter=0 Parágrafo único.\enspace}
+\newcommand{\paragrafounico}{\hangindent=2em \hangafter=0 \emph{Parágrafo único.}\enspace}
 
 
 \newcounter{inciso}[paragrafo]
