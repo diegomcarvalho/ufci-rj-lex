@@ -38,6 +38,7 @@ contributes:
         - "partials/before-body.tex"
       format-resources:
         - cefet-lex.cls
+        - brasao.pdf
       filters:
         - shortcodes.lua
         - br-lex.lua
