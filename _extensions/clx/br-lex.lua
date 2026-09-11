@@ -45,7 +45,7 @@ local function build_context(blocks)
             end
         elseif block.t == "BulletList" then
             if cur_heading_level == 5 then
-                ul_context[i] = "alinea"
+                ul_context[i] = "inciso" -- DC, it was alinea
             else
                 ul_context[i] = "inciso"
             end
