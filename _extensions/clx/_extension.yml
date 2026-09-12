@@ -18,6 +18,7 @@ contributes:
     html:
       toc: true
       toc-depth: 3
+      fontsize: 11pt
       theme: [yeti, custom.scss]
       include-before-body:
         - file: header.html
@@ -28,7 +29,7 @@ contributes:
       classoption: [paragrafoespaco]
       pdf-engine: lualatex
       papersize: a4
-      fontsize: 9pt
+      fontsize: 11pt
       mainfont: Latin Modern Roman
       number-sections: true
       pdf-standard: a-2b

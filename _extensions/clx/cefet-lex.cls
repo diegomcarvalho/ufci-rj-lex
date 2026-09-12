@@ -3,7 +3,7 @@
 %
 \NeedsTeXFormat{LaTeX2e}
 \ProvidesClass{cefet-lex}[2025/07/12 Cefet Lex LaTeX class]
-\LoadClass[12pt,a4paper,oneside]{mwbk}
+\LoadClass[11pt,a4paper,oneside]{mwbk}
 
 \RequirePackage[normalem]{ulem}
 
