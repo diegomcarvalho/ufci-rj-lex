@@ -3,7 +3,7 @@
 [![Quarto](https://img.shields.io/badge/Quarto-%3E%3D1.7.24-blue)](https://quarto.org)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-**ufci-rj-lex** é uma extensão do Quarto para a geração de normas e regulamentos técnico-institucionais no padrão visual da **UFCI/RJ**. O formato é baseado na classe LaTeX `br-lex`, compilada com LuaLaTeX, e suporta saída em **PDF** (padrão A-2b) e **HTML**.
+**ufci-rj-lex** é uma extensão do Quarto para a geração de normas e regulamentos técnico-institucionais no padrão visual da **UFCI/RJ**. O formato é baseado na classe LaTeX `br-lex`, compilada com LuaLaTeX, e suporta saída em **PDF** e **HTML**.
 
 ---
 
@@ -14,6 +14,43 @@
 | [Quarto](https://quarto.org/docs/download/) | ≥ 1.7.24 |
 | [LuaLaTeX](https://www.tug.org/texlive/) | TexLive 2023+ ou MiKTeX |
 | Fontes: Sofia Sans Condensed, Roboto, Roboto Mono | Instaladas no sistema |
+
+---
+
+## Estrutura normativa
+
+O mapeamento atual do documento é o seguinte:
+
+| Markdown / marcador | Elemento normativo | LaTeX | HTML |
+|---|---|---|---|
+| `#` ou `=capítulo` | Capítulo | `\chapter` | `<p class="capitulo">` |
+| `##` ou `=seção` | Seção | `\section` | `<p class="secao">` |
+| `###` ou `=artigo` | Artigo | `\artigo` | `<p class="artigo">` |
+| `####` ou `=parágrafo` | Parágrafo / parágrafo único | `\paragrafo` / `\paragrafounico` | `<p class="paragrafo">` |
+| `#####` ou `=inciso` | Inciso | `\inciso` | `<p class="inciso">` |
+| `######` ou `=alínea` | Alínea | `\alinea` | `<p class="alinea">` |
+| `- item` | Item | `\itens` | `<ul class="itens">` |
+
+---
+
+## Exemplo de escrita no corpo
+
+```markdown
+=capítulo Das Disposições Gerais
+
+=seção Das Finalidades
+
+=artigo Fica instituída a Política Nacional de Exemplo.
+
+=parágrafo As diretrizes da Política Nacional de Exemplo são:
+
+=inciso A promoção da transparência nos atos públicos.
+
+=alínea A divulgação deverá observar a proteção de dados pessoais.
+
+- Primeiro item.
+- Segundo item.
+```
 
 ---
 
@@ -127,6 +164,14 @@ Mapeamento de headings:
 
 
 ---
+
+## Observação de implementação
+
+O pré-processamento substitui as tags textuais por headings Markdown equivalentes antes da interpretação estrutural do documento. Isso permite escrever o conteúdo tanto com acento quanto sem acento, sem alterar o restante do fluxo de renderização.
+
+## Limitações
+
+Uma linha em branco deve separar cada elemento textual (ex: capítulos, seções, artigos, parágrafos, etc).
 
 ## Licença
 
