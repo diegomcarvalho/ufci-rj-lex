@@ -6,3 +6,19 @@
 /*-- scss:rules --*/
 
 /* TODO: Provide custom CSS rules */
+
+.title {
+    padding-bottom: 40px;
+}
+
+.description {
+    width: 40%;
+    margin-left: auto; /* Pushes the block to the right side */
+    text-align: justify; /* Justifies text inside the block */
+    
+    /* Optional: Ensures the last line also stretches to fill width */
+    text-align-last: justify;
+    margin-top: 40px;
+    color: #666;
+    padding-bottom: 40px;
+}
